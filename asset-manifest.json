@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Crypto-Watcher/static/css/main.e6c13ad2.css",
+    "main.js": "/Crypto-Watcher/static/js/main.b3c9c46f.js",
+    "index.html": "/Crypto-Watcher/index.html",
+    "main.e6c13ad2.css.map": "/Crypto-Watcher/static/css/main.e6c13ad2.css.map",
+    "main.b3c9c46f.js.map": "/Crypto-Watcher/static/js/main.b3c9c46f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.b3c9c46f.js"
+  ]
+}
